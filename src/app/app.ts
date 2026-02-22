@@ -15,7 +15,7 @@ export class App implements OnInit {
 
   ngOnInit(): void {
     this.mySnap = new FaceSnapModel(
-      'Archibald',
+      'Archibald1',
       'Mon meilleur ami pour toujours !',
       'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
       new Date(),
